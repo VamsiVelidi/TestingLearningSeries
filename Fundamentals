@@ -1,0 +1,42 @@
+What is Software Testing: 
+
+Imagine you’re building a brand-new coffee machine 
+
+Before selling it, you’d want to check:
+• Does it make coffee when I press the button?
+• What if I forget to add water?
+• Will it still work after 100 uses?
+• Can anyone use it easily?
+
+Software testing is just like that — but for apps, websites, and digital products.
+
+When developers build software, testers step in to:
+
+• Check if everything works as expected
+• Catch problems before real users see them
+• Try different situations to make sure the product is reliable
+• Give feedback so it can be improved
+
+At its core, software testing is the process of evaluating a system to verify that it meets the expected requirements and is free of defects.
+
+But it’s more than that.
+
+It’s about asking critical questions like:
+• Does this software do what it’s supposed to do?
+• What happens when it’s used incorrectly?
+• Can the user trust it to behave reliably every time?
+
+Testing helps teams:
+• Prevent costly bugs from reaching users
+• Improve user experience and trust
+• Ship confidently and move faster
+
+Whether it’s manual, automated, functional, or non-functional, every type of testing contributes to one goal:
+Delivering high-quality software that works.
+
+In simple words:
+
+Testing is about ensuring that software behaves correctly, under all expected (and unexpected) conditions.
+
+We’re the team behind the scenes making sure things don’t break — even when you least expect it.
+
