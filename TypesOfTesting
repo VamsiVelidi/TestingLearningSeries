@@ -1,0 +1,31 @@
+What Are the Types of Software Testing?
+
+When people hear “software testing,” they often think it’s just clicking buttons to find bugs.
+But testing is much broader than that — and can be grouped into two major types:
+1. Functional Testing: This is about what the software does.
+We test features and functions to see if they work as expected.
+2. Non-Functional Testing: This focuses on how well the software performs.
+It answers questions like: Is it fast? Is it secure? Can it handle thousands of users?
+
+Together, functional and non-functional testing ensure the software:
+Works correctly, Performs well under real-world conditions
+
+Let's imagine you are building a coffee machine and understand the types of Software testing in that analogy: 
+
+1. Functional Testing = "Does it do what it should?"
+These tests check what the coffee machine does:
+* Press espresso button → does it make espresso?
+* Choose strong mode → does it brew stronger coffee?
+* Add milk → does it dispense milk at the right time?
+You're checking that each function behaves as expected.
+
+2. Non-Functional Testing = "How well does it do it?"
+These tests check how well the machine works:
+* Can it make 50 coffees in an hour without overheating?
+* Are the buttons and display easy to use for all age groups?
+* Does it still work perfectly after 6 months of daily use?
+
+So next time someone says testing is just “clicking around,” you’ll know there’s a lot more happening behind the scenes. You're testing speed, safety, comfort, durability, and real-world experience. 
+So, testing isn’t just about “Does it work?”
+It’s about “Does it work correctly, consistently, and delightfully?”
+That’s the real job of a tester 
